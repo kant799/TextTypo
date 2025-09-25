@@ -44,4 +44,6 @@ https://github.com/user-attachments/assets/dc9ede5c-db8a-4fe2-a83a-2e0d0e031546
 作者是非计算机专业，对软件工程不甚了解的小白。大部分工作基于Ai完成，如果项目中存在问题欢迎指正。
 </div>
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
