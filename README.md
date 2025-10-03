@@ -35,10 +35,6 @@ https://github.com/user-attachments/assets/dc9ede5c-db8a-4fe2-a83a-2e0d0e031546
 📬 **联系我**：
 - 邮箱：a16n79@gmail.com
 
-🔗 **社交媒体**：
-- X（Twitter）：[Cyan](https://x.com/A16NCyan)
-- 小红书：[Cyan不蓝](https://www.xiaohongshu.com/user/profile/683fc686000000001d02fe85)
-
 ## 碎碎念
 <div align="center">
 作者是非计算机专业，对软件工程不甚了解的小白。大部分工作基于Ai完成，如果项目中存在问题欢迎指正。
